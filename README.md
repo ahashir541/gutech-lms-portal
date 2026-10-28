@@ -4,7 +4,8 @@ A full-stack **Student / Faculty Learning Management System** prototype for **GU
 
 | | |
 |---|---|
-| **Live app** | _LIVE_URL_ |
+| **Live app** | **https://gutech-lms-portal.vercel.app** |
+| **Repository** | https://github.com/ahashir541/gutech-lms-portal |
 | **Stack** | React 18 (Vite) · Node.js (Express) · Supabase (Postgres + Auth + RLS) · Vercel |
 | **Demo password** | `Gutech@123` for every demo account below |
 
